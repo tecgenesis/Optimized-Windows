@@ -1,15 +1,5 @@
-# Remover programas não utilizados
+# Otimização do Windows para Computadores com Baixo Desempenho
 
-# Desabilitar programas de incialização do Windows
+Este projeto tem como objetivo otimizar o Windows para torná-lo mais leve e eficiente em computadores com menor poder de processamento.
 
-# em opção de desempenho, marque a opção de obter um melhor desempenho 
-
-# em acessibilidade ir nas opção de remover efeitos visuais
-
-# ir em remover arquivos temporarios e excluir tudo
-
-# Em multitares, desabilite linhas de tempo
-
-# Em privacidade - Geral desative tudo
-
-# em propriedade do disco C vai em Ferramente e otimizar e desfragmentar o disco
+## OBS: Antes de executar o script, baixe o seu navegar de preferencia
