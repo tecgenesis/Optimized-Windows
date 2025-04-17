@@ -28,7 +28,7 @@ This script makes significant changes to your system. We strongly recommend:
 
 - Creating a restore point before running the script (option 1 in the menu)
 - Backing up important data
-- Reviewing the optimization options in the [detailed documentation](DOCUMENTATION.md) before executing them
+- Reviewing the optimization options in the [detailed documentation](doc.md) before executing them
 
 ## 🧰 Additional Resources
 
