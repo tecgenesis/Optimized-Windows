@@ -34,7 +34,7 @@ This script makes significant changes to your system. We strongly recommend:
 
 The repository includes:
 - `UltimateWindowsOptimizer.bat` - Main script with interactive menu
-- `DOCUMENTATION.md` - Detailed documentation of all optimizations
+- `doc.md` - Detailed documentation of all optimizations
 
 ## 💻 Compatibility
 
